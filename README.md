@@ -12,23 +12,27 @@ it can help supplement your notes.
 **Without running the program**, predict what its behavior is.
 
 1. What will the program output when it is run?
-    >  your answer
+    >  The program will output a side length.
+
 2. What do you think the words `public` and `private` mean?
-    >  your answer
+    > Public might mean that it is avaliable in all places, while private might mean it is only avaliable in some places.
+
 3. How are the files `ShapeDriver.java` and `Square.java` related? 
-    >  your answer
+    > Square creates methods which are used in ShapeDriver.
+
 4. There is no method definition for `Square()`. Do you think the code will compile? 
-    > your answer
+    > I think that it will compile.
+
 5. Why do the methods/functions `getSide()` and `setSide()` exist? 
-    > your answer
+    > Get side gets a side legth and set side sets the value of a side
 
 ## Run
 Run the program. 
 1. What is the output?
-    > your answer
+    > "Side: 1.00"
 
 2. Did your prediction agree with the output? Explain where it may have differed.
-    > your answer
+    > Yes, my prediction did agree with the output.
 
 ## Investigate
 In this section, your instructor will alternate between explaining topics and tackling a `TODO` in the Modify section.

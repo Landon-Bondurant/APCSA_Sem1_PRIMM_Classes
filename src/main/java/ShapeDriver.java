@@ -1,8 +1,8 @@
 /**
  * Driver class for the shapes
- * @author
+ * @author Landon Bondurant
  * @version 1.0
- * @since 2024-09
+ * @since 2024-09-16
  */
 
 
